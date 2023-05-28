@@ -25,7 +25,7 @@ export default function App() {
     <div>
       <header className="header">
         <h1 className="header-title">
-          <a href="/">react-instantsearch-hooks-app</a>
+          <a href="/">Algolia-React-TS-Hooks-InstaSearch</a>
         </h1>
         <p className="header-subtitle"></p>
       </header>
